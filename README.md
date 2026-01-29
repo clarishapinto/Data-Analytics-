@@ -1,5 +1,6 @@
-# Data-Analytics
-Food Impact on Indians
+
+# Food Impact on Indians – Machine Learning Analysis
+
 This project analyzes the impact of dietary habits on health outcomes among individuals in India using machine learning techniques. It is based on a detailed academic study conducted at Zephyr Technologies and Solutions Pvt. Ltd.
 
 The objective of the project is to understand how food consumption patterns, calorie intake, and lifestyle factors influence health indicators such as obesity, diabetes, and overall health score.
